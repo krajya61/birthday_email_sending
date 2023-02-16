@@ -1,0 +1,3 @@
+The purpose of this program is to scan an Excel sheet for birthdays and then automatically send an email to the relevant person.
+
+The Excel sheet contains a list of all the birthdays aloong with their corresponding email addresses.
